@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+.Navig {
+  line-height: 50px;
+}
+.App-logo {
+  height: 40vmin;
+}
+
+.heading {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Login {
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 2px;
+  border-color: black;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 30%;
+  padding: 50px;
+  font-weight: bold;
+}
+
+.heading1 {
+  text-align: center;
+  margin-top: 20px;
+}
+.Signup {
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 2px;
+  box-sizing: border-box;
+  border-color: black;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 35%;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.head {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+body {
+  background-image: linear-gradient(
+    -225deg,
+    #2cd8d5 0%,
+    #c5c1ff 56%,
+    #ffbac3 100%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.About {
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  max-width: 900px;
+  max-height: 100px;
+}
+
+.Signn {
+}
+
+.Total {
+  color: black;
+  text-emphasis-color: black;
+  border-style: outset;
+  margin-left: 200px;
+  margin-top: 80px;
+  border-radius: 20px;
+  border-width: 2px;
+  border-color: black;
+  width: 80%;
+  padding: 30px;
+}
+
+.card {
+  margin-top: 425px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  max-width: 1300px;
+  max-height: 100px;
+}
+
+.disease {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 200px;
+  padding: 20px;
+}
+
+.heart {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  max-width: 1000px;
+  max-height: 100px;
+}
+
+.yesd1 {
+  margin: 10px auto;
+}
+
+.maps1 {
+  height: 50vh;
+  width: 90%;
+}
