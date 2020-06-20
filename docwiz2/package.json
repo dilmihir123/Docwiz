@@ -2,6 +2,7 @@
   "name": "docwiz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dilmihir123.github.io/Docwiz/",
   "dependencies": {
     "@material-ui/core": "^4.7.2",
     "@material-ui/icons": "^4.5.1",
@@ -23,6 +24,8 @@
     "react-tap-event-plugin": "^3.0.3"
   },
   "scripts": {
+    "predeploy"
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
